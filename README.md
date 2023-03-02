@@ -3,7 +3,7 @@
 
 It is a wireless sensor-based system that uses LoRaWAN technology to monitor temperature and humidity in various environments. This system is suitable for applications in various industries, including food storage, pharmaceuticals, and environmental monitoring.
 
-The system consists of wireless sensors that are placed at different locations to monitor temperature and humidity levels. The sensors transmit data to a LoRaWAN gateway that collects and forwards the data to a cloud-based platform. The platform stores and processes the data, allowing users to monitor the temperature and humidity levels in real-time and receive alerts if the levels go beyond the specified limits.
+The system consists of <b>wireless sensors that are placed at different locations to monitor temperature and humidity levels</b>. The sensors transmit data to a LoRaWAN gateway that collects and forwards the data to a cloud-based platform. The platform stores and processes the data, allowing users to monitor the temperature and humidity levels in real-time and receive alerts if the levels go beyond the specified limits.
 
 ● Tech Stack: C++, Python, Node.Js, Pandas, MongoDB, Linux(Ubuntu), Next.JS & LoRaWAN Technology
 
